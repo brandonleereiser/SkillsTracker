@@ -25,5 +25,5 @@ public class SkillsController {
 @ResponseBody
     public String form(){
 
-    }
+    };
 }
